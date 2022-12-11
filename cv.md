@@ -1,19 +1,19 @@
-#**Anatoly Makavchik**
+# **Anatoly Makavchik**
 ---------
-#**My Contact Info**
+# **My Contact Info**
 ---------
 * Address: Belarus, Minsk, st. Solnechnaya
 * E-mail: makavchik92@mail.ru
 * GitHub: Lemak92
 * Discord: Lemak#3905
 
-#**About Me**
+# **About Me**
 ---------
  
-# I'm always looking for myself, so I'm always trying to learn new things. Right now, my goal is to learn JS and learn to understand this programming language. My strengths are assertiveness, calmness, multitasking, and belief in my abilities. My job at the moment is related to e-commerce, I'm a current manager in the sales and customer service department. Before that, I studied the Python programming language on my own.    
-# I believe that you can only achieve results through persistence and hard work.
+I'm always looking for myself, so I'm always trying to learn new things. Right now, my goal is to learn JS and learn to understand this programming language. My strengths are assertiveness, calmness, multitasking, and belief in my abilities. My job at the moment is related to e-commerce, I'm a current manager in the sales and customer service department. Before that, I studied the Python programming language on my own.    
+I believe that you can only achieve results through persistence and hard work.
 
-#**Skills**
+# **Skills**
 -------
 *Python (basic knowledge)
 *HTML
@@ -22,7 +22,7 @@
 *Git (GitHub)
 *Editors:VSCode, PyCharm
 
-#**Code examples**
+# **Code examples**
 ```
 import random
 number = random.randint(1,10)
@@ -63,13 +63,13 @@ for i in range(user_count):
 																	        print(f"Победитель {winner_name}")
 													
 ```
-#**Education**
+# **Education**
 --------
-*University: Belarusian State Agrarian Technical University, economist- manager
-*Courses:
+* University: Belarusian State Agrarian Technical University, economist- manager
+* Courses:
 	+[Basic Python](https://www.youtube.com/watch?v=34Rp6KVGIEM&list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa)
 	+[Html+CSS](https://www.youtube.com/watch?v=oc_OO9NILIg&list=PLs2IpQwiXpT2EOKwlXqHvgRbq5F52QaN_)
-#**English**
+# **English**
 --------
-*Russian - native language.
-*English - A2 (B1 in process)
+* Russian - native language.
+* English - A2 (B1 in process)
