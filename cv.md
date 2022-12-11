@@ -15,12 +15,12 @@ I believe that you can only achieve results through persistence and hard work.
 
 # **Skills**
 -------
-*Python (basic knowledge)
-*HTML
-*CSS
-*JavaScript
-*Git (GitHub)
-*Editors:VSCode, PyCharm
+* Python (basic knowledge)
+* HTML
+* CSS
+* JavaScript
+* Git (GitHub)
+* Editors:VSCode, PyCharm
 
 # **Code examples**
 ```
