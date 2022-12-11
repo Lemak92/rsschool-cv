@@ -67,8 +67,8 @@ for i in range(user_count):
 --------
 * University: Belarusian State Agrarian Technical University, economist- manager
 * Courses:
-	+[Basic Python](https://www.youtube.com/watch?v=34Rp6KVGIEM&list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa)
-	+[Html+CSS](https://www.youtube.com/watch?v=oc_OO9NILIg&list=PLs2IpQwiXpT2EOKwlXqHvgRbq5F52QaN_)
+	+ [Basic Python](https://www.youtube.com/watch?v=34Rp6KVGIEM&list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa)
+	+ [Html+CSS](https://www.youtube.com/watch?v=oc_OO9NILIg&list=PLs2IpQwiXpT2EOKwlXqHvgRbq5F52QaN_)
 # **English**
 --------
 * Russian - native language.
